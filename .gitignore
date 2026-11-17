@@ -78,13 +78,11 @@ plausible-report.xml
 *.iml
 *.log
 *.code-workspace
-.vscode
 
 # Dializer
 /priv/plts/*.plt
 /priv/plts/*.plt.hash
 
-.env
 
 # Geolocation databases
 /priv/geodb/*.mmdb
@@ -99,3 +97,5 @@ plausible-report.xml
 plausible_db*
 
 .claude
+config.bat
+node_modules
